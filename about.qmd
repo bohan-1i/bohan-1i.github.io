@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+[Work in Progress]{.underline}
 
-```{r}
-1 + 1
-```
+Does ownership matter? Evidence from urgent care clinics (with David Cutler and Robert S. Huckman)
+
+Physician Practice Acquisitions and Medicaid Enrollee Outcomes (with Ambar La Forgia and Becky Staiger)
