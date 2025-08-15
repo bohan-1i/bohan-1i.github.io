@@ -2,6 +2,10 @@
 title: "Research"
 ---
 
+[Publications]{.underline}
+
+Bohan Li and Timothy J. Layton. (2025). Medicaid Managed Care: Substantial Shifts In Market Landscape And Acquisitions, 2006-20. *Health Affairs.* 44 (7): 862-868.
+
 [Work in Progress]{.underline}
 
 Does ownership matter? Evidence from urgent care clinics (with David Cutler and Robert S. Huckman)
